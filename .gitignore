@@ -1,0 +1,3 @@
+source_manifest.csv
+*.html
+__pycache__/*
